@@ -1,0 +1,22 @@
+.inputFile {
+    position: absolute;
+    font-size: 50px;
+    opacity: 0;
+    right: 0;
+    top: 0;
+
+}
+.divInput{
+    position: absolute;
+    overflow: hidden;
+    top:100px;
+    right: 160px;
+    /*background: #d9232d;*/
+    /*color: black;*/
+}
+.uploadBtn{
+    position: absolute;
+    overflow: hidden;
+    top:100px;
+    right: 20px;
+}
